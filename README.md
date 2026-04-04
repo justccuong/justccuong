@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Cường 👋 (aka justccuong)</h1>
-<h3 align="center">AI Major @ FPT University | Competitive Programming Enthusiast | JS Club Member</h3>
+<h3 align="center">Full Stack Developer | Competitive Programming Enthusiast | JS Club Member</h3>
 
 <p align="center"> 
   Passionate about algorithm design, building scalable backends, and vibing to EDM. Staying pragmatic and always moving forward! 🚀
