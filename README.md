@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🎯 **Current Goal:** Shipping code daily (1 Repo/Day challenge!).
+- 🎯 **Current Goal:** Shipping code daily (1 Repo/Day challenge).
 - 🔭 **Currently building:** **AI-GV-25-26** (FastAPI + React) & **KienCuongAuto**.
 - 🌱 **Deep diving into:** **Algorithms, AI Agents, MERN Stack, and exploring Trending Repositories**.
 - 💬 **Ask me about:** **C++, Python, FastAPI architecture, or how to hunt for the latest tech trends**.
