@@ -1,18 +1,7 @@
 <h1 align="center">Hi there, I'm Cường 👋 (aka justccuong)</h1>
 <h3 align="center">Full Stack Developer | Competitive Programming Enthusiast | JS Club Member</h3>
 
-<p align="center"> 
-  Passionate about algorithm design, building scalable backends, and vibing to EDM. Staying pragmatic and always moving forward! 🚀
-</p>
-
 ---
-
-### 👨‍💻 About Me:
-- 🎯 **Current Goal:** Shipping code daily (1 Repo/Day challenge).
-- 🔭 **Currently building:** **AI-GV-25-26** (FastAPI + React) & **KienCuongAuto**.
-- 🌱 **Deep diving into:** **Algorithms, AI Agents, MERN Stack, and exploring Trending Repositories**.
-- 💬 **Ask me about:** **C++, Python, FastAPI architecture, or how to hunt for the latest tech trends**.
-- ⚡ **Fun fact:** My code is powered by deadlines, EDM, and pure passion.
 
 ### 🛠 Tech Stack:
 <p align="left">
