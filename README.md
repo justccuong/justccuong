@@ -23,5 +23,4 @@
 ### 📊 GitHub Stats & Daily Streak:
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=justccuong&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justccuong&theme=tokyonight" alt="GitHub Streak" />
 </p>
