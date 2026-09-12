@@ -1,26 +1,42 @@
-<h1 align="center">Hi there, I'm Cường 👋 (aka justccuong)</h1>
-<h3 align="center">Full Stack Developer | Competitive Programming Enthusiast | JS Club Member</h3>
+# Cao Cường (justccuong)
+
+Software Engineering Student @ **FPT University** • Member of **JS Club**  
+Full-Stack Developer with a strong focus on high-performance web platforms, DevOps workflows, and AI integration.
+
+[Website](https://kiencuongauto.vn) • [LinkedIn](https://www.linkedin.com/in/justccuong/) • [Email](mailto:cuongdan2006@gmail.com)
 
 ---
 
-### 🛠 Tech Stack:
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <br>
-  
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
-  <br>
+### 🚀 Featured Projects
 
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-</p>
+#### 1. [Kiên Cường Auto](https://github.com/justccuong/KienCuongAuto) — Production Dealership Platform
+> Full-stack automotive dealership system with inventory management, multi-branch operations, and real-time visitor analytics.
+- **Live:** [kiencuongauto.vn](https://kiencuongauto.vn)
+- **Stack:** React 19, Vite, Node.js (Express 5), MongoDB, Tailwind CSS
+- **DevOps & Security:** Fully automated CI/CD via GitHub Actions, deployed on Ubuntu Linux VPS with Nginx Reverse Proxy, PM2 zero-downtime reloads, and Cloudflare edge caching.
 
-### 📊 GitHub Stats & Daily Streak:
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=justccuong&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+#### 2. [Chạm Thức](https://github.com/justccuong/Cham-Thuc) — Vietnamese Heritage Craft E-Commerce
+> Cultural craft commerce platform featuring editorial lookbooks, blind-box galleries, and automated order workflows.
+- **Stack:** Next.js 16 (App Router), React 19, TypeScript, Supabase (PostgreSQL), Tailwind CSS v4
+- **Integrations:** Automated VietQR payment generation and real-time order notifications via Facebook Graph API (Messenger Webhooks).
+
+#### 3. [AI Education Assistant](https://github.com/justccuong/AI-GV-25-26) — Intelligent Mindmap & Learning Tool
+> Smart educational companion leveraging Large Language Models to transform study materials into interactive visual mindmaps.
+- **Stack:** Python (FastAPI), React, Google Gemini AI API, ReactFlow, PostgreSQL, Docker
+
+---
+
+### 🛠 Technical Arsenal
+
+- **Languages:** JavaScript / TypeScript, Python, C++, SQL
+- **Frontend:** React 19, Next.js (App Router), Tailwind CSS, Vite, Redux / Context API
+- **Backend:** Node.js (Express), FastAPI, RESTful APIs, JWT & HTTP-Only Cookie Auth
+- **Databases:** PostgreSQL (Supabase), MongoDB (Mongoose)
+- **DevOps & Tools:** Linux (Ubuntu VPS), Nginx, Docker, GitHub Actions (CI/CD), Git, PM2
+
+---
+
+### ⚡ Highlights & Current Focus
+- 🎯 Practicing Data Structures, Algorithms & Competitive Programming with **JS Club (FPTU)**.
+- 🛠 Building robust, scalable full-stack applications with production-grade deployment pipelines.
+- 💬 Open to collaborate on Full-stack and AI-driven web projects.
